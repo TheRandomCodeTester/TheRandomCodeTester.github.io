@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: therandomcodetester.github.io
-Token: 80060da2a66534173352eee143e92d677c4d5c52a47f1c2874387654b355b773
